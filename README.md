@@ -45,3 +45,6 @@ Projeto de camada de enlace implementada manualmente sobre módulos RF de 433 MH
 Flag (0x7E) | Tipo | Sequência | Tamanho | Dados (0–16 B) | CRC-8
 
 **Tipos:** 0x04 (texto), 0x01 (imagem), 0x02 (ACK)
+
+## Relatório
+O relatório completo do projeto está disponível em [Relatorio completo.pdf](Relatorio%20completo.pdf).
